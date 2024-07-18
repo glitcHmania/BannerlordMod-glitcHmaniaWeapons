@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\Mods\glitcHmaniaBL\bin\x64\Debug\net6\glitcHmaniaBL.deps.json
+C:\Users\user\Desktop\Mods\glitcHmaniaBL\bin\x64\Debug\net6\glitcHmaniaBL.dll
+C:\Users\user\Desktop\Mods\glitcHmaniaBL\bin\x64\Debug\net6\glitcHmaniaBL.pdb
+C:\Users\user\Desktop\Mods\glitcHmaniaBL\obj\x64\Debug\net6\glitcHmaniaBL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Mods\glitcHmaniaBL\obj\x64\Debug\net6\glitcHmaniaBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Mods\glitcHmaniaBL\obj\x64\Debug\net6\glitcHmaniaBL.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Mods\glitcHmaniaBL\obj\x64\Debug\net6\glitcHmaniaBL.AssemblyInfo.cs
+C:\Users\user\Desktop\Mods\glitcHmaniaBL\obj\x64\Debug\net6\glitcHmaniaBL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Mods\glitcHmaniaBL\obj\x64\Debug\net6\glitcHmaniaBL.sourcelink.json
+C:\Users\user\Desktop\Mods\glitcHmaniaBL\obj\x64\Debug\net6\glitcHmaniaBL.dll
+C:\Users\user\Desktop\Mods\glitcHmaniaBL\obj\x64\Debug\net6\refint\glitcHmaniaBL.dll
+C:\Users\user\Desktop\Mods\glitcHmaniaBL\obj\x64\Debug\net6\glitcHmaniaBL.pdb
+C:\Users\user\Desktop\Mods\glitcHmaniaBL\obj\x64\Debug\net6\ref\glitcHmaniaBL.dll

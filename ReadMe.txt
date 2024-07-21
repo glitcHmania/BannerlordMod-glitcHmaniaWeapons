@@ -1,0 +1,2 @@
+-Equip the Auto Rifle with any Ammo Box
+-Press right click for automatic fire, press left click for single fire

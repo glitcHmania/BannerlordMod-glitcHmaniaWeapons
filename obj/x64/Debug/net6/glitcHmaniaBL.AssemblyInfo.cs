@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("glitcHmaniaBL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("0.0.1.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.0.1+707f4f1c7b201d0034c31a37fbc3983f55e46041")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.0.1+9f58e1a1bd44024e935b0aacc1f36af43346b29b")]
 [assembly: System.Reflection.AssemblyProductAttribute("glitcHmaniaBL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("glitcHmaniaBL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("0.0.1.0")]

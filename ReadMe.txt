@@ -4,3 +4,4 @@ Auto Rifle
 
 	Rifle model by: MikeeUSA2 https://www.blendswap.com/blend/20384
 	Ammo box model by: izuzf https://www.blendswap.com/blend/15319
+	Bullet model by: Dante https://www.blendswap.com/blend/9206

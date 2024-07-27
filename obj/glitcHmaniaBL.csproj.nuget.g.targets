@@ -6,7 +6,4 @@
   <ImportGroup Condition=" '$(TargetFramework)' == 'net472' AND '$(ExcludeRestorePackageImports)' != 'true' ">
     <Import Project="$(NuGetPackageRoot)bannerlord.buildresources\1.1.0.104\build\Bannerlord.BuildResources.targets" Condition="Exists('$(NuGetPackageRoot)bannerlord.buildresources\1.1.0.104\build\Bannerlord.BuildResources.targets')" />
   </ImportGroup>
-  <ImportGroup Condition=" '$(TargetFramework)' == 'net6' AND '$(ExcludeRestorePackageImports)' != 'true' ">
-    <Import Project="$(NuGetPackageRoot)bannerlord.buildresources\1.1.0.104\build\Bannerlord.BuildResources.targets" Condition="Exists('$(NuGetPackageRoot)bannerlord.buildresources\1.1.0.104\build\Bannerlord.BuildResources.targets')" />
-  </ImportGroup>
 </Project>

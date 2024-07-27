@@ -238,194 +238,6 @@
           "build/Nullable.props": {}
         }
       }
-    },
-    "net6.0": {
-      "Bannerlord.BuildResources/1.1.0.104": {
-        "type": "package",
-        "build": {
-          "build/Bannerlord.BuildResources.props": {},
-          "build/Bannerlord.BuildResources.targets": {}
-        },
-        "buildMultiTargeting": {
-          "buildMultiTargeting/Bannerlord.BuildResources.props": {},
-          "buildMultiTargeting/Bannerlord.BuildResources.targets": {}
-        }
-      },
-      "Bannerlord.Lib.Harmony/2.2.2": {
-        "type": "package",
-        "compile": {
-          "ref/netstandard2.0/0Harmony.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/netcoreapp3.1/_._": {
-            "related": ".xml"
-          }
-        }
-      },
-      "BUTR.Harmony.Analyzer/1.0.1.50": {
-        "type": "package"
-      },
-      "Harmony.Extensions/3.2.0.77": {
-        "type": "package",
-        "contentFiles": {
-          "contentFiles/cs/net6.0/Harmony.Extensions/AccessCacheHandle.cs": {
-            "buildAction": "Compile",
-            "codeLanguage": "cs",
-            "copyToOutput": false
-          },
-          "contentFiles/cs/net6.0/Harmony.Extensions/AccessTools2.Constructor.cs": {
-            "buildAction": "Compile",
-            "codeLanguage": "cs",
-            "copyToOutput": false
-          },
-          "contentFiles/cs/net6.0/Harmony.Extensions/AccessTools2.Delegate.Constructor.cs": {
-            "buildAction": "Compile",
-            "codeLanguage": "cs",
-            "copyToOutput": false
-          },
-          "contentFiles/cs/net6.0/Harmony.Extensions/AccessTools2.Delegate.Property.cs": {
-            "buildAction": "Compile",
-            "codeLanguage": "cs",
-            "copyToOutput": false
-          },
-          "contentFiles/cs/net6.0/Harmony.Extensions/AccessTools2.Delegate.Shared.cs": {
-            "buildAction": "Compile",
-            "codeLanguage": "cs",
-            "copyToOutput": false
-          },
-          "contentFiles/cs/net6.0/Harmony.Extensions/AccessTools2.Delegate.cs": {
-            "buildAction": "Compile",
-            "codeLanguage": "cs",
-            "copyToOutput": false
-          },
-          "contentFiles/cs/net6.0/Harmony.Extensions/AccessTools2.Field.cs": {
-            "buildAction": "Compile",
-            "codeLanguage": "cs",
-            "copyToOutput": false
-          },
-          "contentFiles/cs/net6.0/Harmony.Extensions/AccessTools2.FieldRef.cs": {
-            "buildAction": "Compile",
-            "codeLanguage": "cs",
-            "copyToOutput": false
-          },
-          "contentFiles/cs/net6.0/Harmony.Extensions/AccessTools2.Method.cs": {
-            "buildAction": "Compile",
-            "codeLanguage": "cs",
-            "copyToOutput": false
-          },
-          "contentFiles/cs/net6.0/Harmony.Extensions/AccessTools2.Property.cs": {
-            "buildAction": "Compile",
-            "codeLanguage": "cs",
-            "copyToOutput": false
-          },
-          "contentFiles/cs/net6.0/Harmony.Extensions/AccessTools2.StaticFieldRef.cs": {
-            "buildAction": "Compile",
-            "codeLanguage": "cs",
-            "copyToOutput": false
-          },
-          "contentFiles/cs/net6.0/Harmony.Extensions/AccessTools2.StructFieldRef.cs": {
-            "buildAction": "Compile",
-            "codeLanguage": "cs",
-            "copyToOutput": false
-          },
-          "contentFiles/cs/net6.0/Harmony.Extensions/AccessTools2.cs": {
-            "buildAction": "Compile",
-            "codeLanguage": "cs",
-            "copyToOutput": false
-          },
-          "contentFiles/cs/net6.0/Harmony.Extensions/CodeInstructionExtensions.cs": {
-            "buildAction": "Compile",
-            "codeLanguage": "cs",
-            "copyToOutput": false
-          },
-          "contentFiles/cs/net6.0/Harmony.Extensions/HarmonyExtensions.cs": {
-            "buildAction": "Compile",
-            "codeLanguage": "cs",
-            "copyToOutput": false
-          },
-          "contentFiles/cs/net6.0/Harmony.Extensions/Reflect.cs": {
-            "buildAction": "Compile",
-            "codeLanguage": "cs",
-            "copyToOutput": false
-          },
-          "contentFiles/cs/net6.0/Harmony.Extensions/SymbolExtensions2.Constructor.cs": {
-            "buildAction": "Compile",
-            "codeLanguage": "cs",
-            "copyToOutput": false
-          },
-          "contentFiles/cs/net6.0/Harmony.Extensions/SymbolExtensions2.Field.cs": {
-            "buildAction": "Compile",
-            "codeLanguage": "cs",
-            "copyToOutput": false
-          },
-          "contentFiles/cs/net6.0/Harmony.Extensions/SymbolExtensions2.FieldRef.cs": {
-            "buildAction": "Compile",
-            "codeLanguage": "cs",
-            "copyToOutput": false
-          },
-          "contentFiles/cs/net6.0/Harmony.Extensions/SymbolExtensions2.Method.cs": {
-            "buildAction": "Compile",
-            "codeLanguage": "cs",
-            "copyToOutput": false
-          },
-          "contentFiles/cs/net6.0/Harmony.Extensions/SymbolExtensions2.Property.cs": {
-            "buildAction": "Compile",
-            "codeLanguage": "cs",
-            "copyToOutput": false
-          },
-          "contentFiles/cs/net6.0/Harmony.Extensions/SymbolExtensions2.StaticFieldRef.cs": {
-            "buildAction": "Compile",
-            "codeLanguage": "cs",
-            "copyToOutput": false
-          },
-          "contentFiles/cs/net6.0/Harmony.Extensions/SymbolExtensions2.StructFieldRef.cs": {
-            "buildAction": "Compile",
-            "codeLanguage": "cs",
-            "copyToOutput": false
-          },
-          "contentFiles/cs/net6.0/Harmony.Extensions/SymbolExtensions2.cs": {
-            "buildAction": "Compile",
-            "codeLanguage": "cs",
-            "copyToOutput": false
-          },
-          "contentFiles/cs/net6.0/Harmony.Extensions/Traverse2.cs": {
-            "buildAction": "Compile",
-            "codeLanguage": "cs",
-            "copyToOutput": false
-          }
-        },
-        "build": {
-          "build/Harmony.Extensions.props": {}
-        }
-      },
-      "IsExternalInit/1.0.3": {
-        "type": "package",
-        "contentFiles": {
-          "contentFiles/cs/net5.0/IsExternalInit/IsExternalInit.cs": {
-            "buildAction": "Compile",
-            "codeLanguage": "cs",
-            "copyToOutput": false
-          }
-        },
-        "build": {
-          "build/IsExternalInit.props": {}
-        }
-      },
-      "Nullable/1.3.1": {
-        "type": "package",
-        "contentFiles": {
-          "contentFiles/cs/net5.0/_._": {
-            "buildAction": "None",
-            "codeLanguage": "cs",
-            "copyToOutput": false
-          }
-        },
-        "build": {
-          "build/Nullable.props": {}
-        }
-      }
     }
   },
   "libraries": {
@@ -885,14 +697,6 @@
       "Harmony.Extensions >= 3.2.0.77",
       "IsExternalInit >= 1.0.3",
       "Nullable >= 1.3.1"
-    ],
-    "net6.0": [
-      "BUTR.Harmony.Analyzer >= 1.0.1.50",
-      "Bannerlord.BuildResources >= 1.1.0.104",
-      "Bannerlord.Lib.Harmony >= 2.2.2",
-      "Harmony.Extensions >= 3.2.0.77",
-      "IsExternalInit >= 1.0.3",
-      "Nullable >= 1.3.1"
     ]
   },
   "packageFolders": {
@@ -913,18 +717,13 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net472",
-        "net6"
+        "net472"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6",
-          "projectReferences": {}
-        },
         "net472": {
           "targetAlias": "net472",
           "projectReferences": {}
@@ -942,77 +741,6 @@
       }
     },
     "frameworks": {
-      "net6.0": {
-        "targetAlias": "net6",
-        "dependencies": {
-          "BUTR.Harmony.Analyzer": {
-            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-            "suppressParent": "All",
-            "target": "Package",
-            "version": "[1.0.1.50, )"
-          },
-          "Bannerlord.BuildResources": {
-            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-            "suppressParent": "All",
-            "target": "Package",
-            "version": "[1.1.0.104, )"
-          },
-          "Bannerlord.Lib.Harmony": {
-            "include": "Compile",
-            "target": "Package",
-            "version": "[2.2.2, )"
-          },
-          "Harmony.Extensions": {
-            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-            "suppressParent": "All",
-            "target": "Package",
-            "version": "[3.2.0.77, )"
-          },
-          "IsExternalInit": {
-            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-            "suppressParent": "All",
-            "target": "Package",
-            "version": "[1.0.3, )"
-          },
-          "Nullable": {
-            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-            "suppressParent": "All",
-            "target": "Package",
-            "version": "[1.3.1, )"
-          }
-        },
-        "imports": [
-          "net461",
-          "net462",
-          "net47",
-          "net471",
-          "net472",
-          "net48",
-          "net481"
-        ],
-        "assetTargetFallback": true,
-        "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.30, 6.0.30]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.30, 6.0.30]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.30, 6.0.30]"
-          }
-        ],
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
-      },
       "net472": {
         "targetAlias": "net472",
         "dependencies": {
